@@ -1,2 +1,2 @@
-# 0X03-GIT PROJECT
-*Lern Git*
+# 0X03 GIT
+*This is new git project*
